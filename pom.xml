@@ -40,16 +40,17 @@
                 <source>1.8</source>
                 <target>1.8</target>
             </configuration>
-        </plugin>
-    </plugins>
-		 <plugins>
-        <plugin>
+
+		 <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-war-plugin</artifactId>
             <version>3.2.3</version> <!-- Use a compatible version -->
         </plugin>
-        <!-- Other plugins -->
-    </plugins
+        </plugin>
+    </plugins>
+		
+       
+       
 </build>
 	
 	<distributionManagement>
